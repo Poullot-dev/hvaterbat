@@ -2,7 +2,6 @@
   "name": "hvaterbat",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
@@ -13,9 +12,5 @@
   "license": "ISC",
   "devDependencies": {
     "parcel": "^2.10.3"
-  },
-  "dependencies": {
-    "feather-icons": "^4.29.1",
-    "reset-css": "^5.0.2"
   }
 }
